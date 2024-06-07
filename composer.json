@@ -1,0 +1,17 @@
+{
+    "name": "pc/xuong-oop",
+    "autoload": {
+        "psr-4": {
+            "Pc\\XuongOop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TRANDIU",
+            "email": "diuttph3381@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
